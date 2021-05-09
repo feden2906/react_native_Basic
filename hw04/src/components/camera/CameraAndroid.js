@@ -50,6 +50,7 @@ const CameraAndroid = () => {
                     >
                         <Text>take picture</Text>
                     </TouchableHighlight>
+                    {/*getAlbumsAsync --- choose correct repo for picture savings*/}
                     <Button style={styles.button} title={'take picture'} onPress={takePicture}/>
                     <Button title={'toggle back'} onPress={toggleBack}/>
                     <Button title={'toggle front'} onPress={toggleFront}/>
