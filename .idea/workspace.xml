@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fe1f9516-8241-4378-917c-a59523c2739c" name="Default Changelist" comment="carry on experiments" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1roPYILn5tlPAs31SA2RK35HcRT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\work\___COURSES\React Native" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\work\___COURSES\React Native\hw03\src\components\user" />
+      <recent name="D:\work\___COURSES\React Native\hw03\src\components\post" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe1f9516-8241-4378-917c-a59523c2739c" name="Default Changelist" comment="" />
+      <created>1619639515064</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619639515064</updated>
+      <workItem from="1619639516502" duration="19400000" />
+      <workItem from="1619806439627" duration="1225000" />
+      <workItem from="1619811010726" duration="2316000" />
+      <workItem from="1620036420640" duration="17174000" />
+      <workItem from="1620062517632" duration="2454000" />
+      <workItem from="1620159759468" duration="4685000" />
+      <workItem from="1620482232103" duration="154000" />
+      <workItem from="1620482506391" duration="13597000" />
+      <workItem from="1620510945405" duration="89000" />
+      <workItem from="1620574823123" duration="4349000" />
+    </task>
+    <task id="LOCAL-00001" summary="start">
+      <created>1619642006079</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1619642006080</updated>
+    </task>
+    <task id="LOCAL-00002" summary="axios">
+      <created>1619644040007</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1619644040007</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add users', user' comp-t">
+      <created>1619722986277</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1619722986277</updated>
+    </task>
+    <task id="LOCAL-00004" summary="user full complete">
+      <created>1619730350669</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1619730350670</updated>
+    </task>
+    <task id="LOCAL-00005" summary="post full complete">
+      <created>1619733955250</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1619733955250</updated>
+    </task>
+    <task id="LOCAL-00006" summary="post full complete">
+      <created>1620039442721</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1620039442721</updated>
+    </task>
+    <task id="LOCAL-00007" summary="drawer preparing">
+      <created>1620043350795</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1620043350795</updated>
+    </task>
+    <task id="LOCAL-00008" summary="drawer preparing2">
+      <created>1620045920112</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1620045920112</updated>
+    </task>
+    <task id="LOCAL-00009" summary="drawer for user">
+      <created>1620056586330</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1620056586330</updated>
+    </task>
+    <task id="LOCAL-00010" summary="+ user drawer">
+      <created>1620058545261</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1620058545261</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add modal">
+      <created>1620060448521</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1620060448521</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add modal">
+      <created>1620071959130</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1620071959130</updated>
+    </task>
+    <task id="LOCAL-00013" summary="add modal">
+      <created>1620072019152</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1620072019152</updated>
+    </task>
+    <task id="LOCAL-00014" summary="normal name">
+      <created>1620072121687</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1620072121687</updated>
+    </task>
+    <task id="LOCAL-00015" summary="add todo for stack nav">
+      <created>1620074343086</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1620074343086</updated>
+    </task>
+    <task id="LOCAL-00016" summary="test PostStack.js&#10;getting UserStack.js">
+      <created>1620161473098</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1620161473098</updated>
+    </task>
+    <task id="LOCAL-00017" summary="test UserStack.js">
+      <created>1620162924537</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1620162924537</updated>
+    </task>
+    <task id="LOCAL-00018" summary="clean">
+      <created>1620163548842</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1620163548842</updated>
+    </task>
+    <task id="LOCAL-00019" summary="start hw04">
+      <created>1620483603732</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1620483603732</updated>
+    </task>
+    <task id="LOCAL-00020" summary="little changes">
+      <created>1620485467592</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1620485467592</updated>
+    </task>
+    <task id="LOCAL-00021" summary="camera launching">
+      <created>1620491143510</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1620491143510</updated>
+    </task>
+    <task id="LOCAL-00022" summary="styles are not applied to the button">
+      <created>1620495047328</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1620495047328</updated>
+    </task>
+    <task id="LOCAL-00023" summary="carry on experiments">
+      <created>1620495370315</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1620495370315</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="start" />
+    <MESSAGE value="axios" />
+    <MESSAGE value="add users', user' comp-t" />
+    <MESSAGE value="user full complete" />
+    <MESSAGE value="post full complete" />
+    <MESSAGE value="drawer preparing" />
+    <MESSAGE value="drawer preparing2" />
+    <MESSAGE value="drawer for user" />
+    <MESSAGE value="+ user drawer" />
+    <MESSAGE value="add modal" />
+    <MESSAGE value="normal name" />
+    <MESSAGE value="add todo for stack nav" />
+    <MESSAGE value="test PostStack.js&#10;getting UserStack.js" />
+    <MESSAGE value="test UserStack.js" />
+    <MESSAGE value="clean" />
+    <MESSAGE value="start hw04" />
+    <MESSAGE value="little changes" />
+    <MESSAGE value="camera launching" />
+    <MESSAGE value="styles are not applied to the button" />
+    <MESSAGE value="carry on experiments" />
+    <option name="LAST_COMMIT_MESSAGE" value="carry on experiments" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
