@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe1f9516-8241-4378-917c-a59523c2739c" name="Default Changelist" comment="add media-library">
-      <change afterPath="$PROJECT_DIR$/hw03/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw03/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw03/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw03/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw03/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw03/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +62,7 @@
       <workItem from="1620482232103" duration="154000" />
       <workItem from="1620482506391" duration="13597000" />
       <workItem from="1620510945405" duration="89000" />
-      <workItem from="1620574823123" duration="6810000" />
+      <workItem from="1620574823123" duration="6825000" />
     </task>
     <task id="LOCAL-00001" summary="start">
       <created>1619642006079</created>
