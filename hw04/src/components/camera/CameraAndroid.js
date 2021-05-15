@@ -11,6 +11,7 @@ const CameraAndroid = () => {
     useEffect(() => {
         (async () => {
             const {status} = await Camera.requestPermissionsAsync();
+            await MediaLibrary.requestPermissionsAsync();
             setPermission(status === 'granted');
         })();
     }, [])
@@ -25,7 +26,7 @@ const CameraAndroid = () => {
     async function takePicture() {
         if (hasPermission) {
             const picture = await camera.takePictureAsync(null);
-            console.log(picture);
+
             await MediaLibrary.saveToLibraryAsync(picture.uri); // need sending to server
         }
     }
