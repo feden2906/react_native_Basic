@@ -11,6 +11,7 @@ const CameraAndroid = () => {
     useEffect(() => {
         (async () => {
             const {status} = await Camera.requestPermissionsAsync();
+            await MediaLibrary.requestPermissionsAsync();
             setPermission(status === 'granted');
         })();
     }, [])
