@@ -1,19 +1,19 @@
-import React, {useEffect} from 'react';
-import { StyleSheet, Text, View, Button, TouchableOpacity } from 'react-native';
+import React, { useEffect } from 'react';
+import { StyleSheet, Text, View } from 'react-native';
 
-const UserDetails = ({route, navigation}) => {
-    const {params: {data}} = route;
+export const UserDetails = ({ route, navigation }) => {
+  const { name, username, phone, website } = route.params.data;
 
-    useEffect(() => {
-        navigation.setOptions({title: data.name});
-    }, []);
+  useEffect(() => {
+    navigation.setOptions({ title: name });
+  }, []);
 
-    return <View>
-              <Text>{data.username}</Text>
-            <Text>{data.phone}</Text>
-            <Text>{data.website}</Text>
-    </View>;
+  return <View>
+    <Text>{username}</Text>
+    <Text>{phone}</Text>
+    <Text>{website}</Text>
+  </View>;
 };
-export default UserDetails;
+
 
 const styles = StyleSheet.create({});

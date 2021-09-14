@@ -1,32 +1,32 @@
-import React, {useEffect, useState} from 'react';
-import {StyleSheet, Text, View, Button, TouchableOpacity, FlatList} from 'react-native';
-import {getUsers} from "../../api/userAPI";
-import User from "./User";
+import React, { useEffect, useState } from 'react';
+import { FlatList, StyleSheet, View } from 'react-native';
 
-const Users = (props) => {
-    console.log(props)
-    const {navigation} = props;
+import { getUsers } from "../../api/userAPI";
+import { User } from "./User";
 
-    const [ users, setUsers ] = useState([]);
 
-    async function takeData() { // take out separately
-        const users = await getUsers();
-        setUsers([...users]);
-    }
+export const Users = ({ navigation }) => {
+  const [users, setUsers] = useState([]);
 
-    useEffect(() => {
-        takeData();
-    }, [])
+  const takeData = async () => {
+    const users = await getUsers();
+    setUsers(users);
+  }
 
-  return <View>
-            <FlatList
-                data={ users }
-                renderItem={({ item }) => <User nav={navigation} item={ item }/>}
-                keyExtractor={ item => '' + item.id }
-                // horizontal={true} // if u wanna place components horizontally
-            />
-         </View>;
+  useEffect(() => {
+    takeData();
+  }, [])
+
+  return (
+      <View>
+        <FlatList
+            data={users}
+            renderItem={({ item }) => <User nav={navigation} item={item}/>}
+            keyExtractor={({ id }) => id.toString()}
+            // horizontal={true} // if u wanna place components horizontally
+        />
+      </View>
+  )
 };
-export default Users;
 
 const styles = StyleSheet.create({});

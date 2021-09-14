@@ -1,10 +1,11 @@
 import React from 'react';
-import { StyleSheet, Text, View } from 'react-native';
-import {NavigationContainer} from "@react-navigation/native";
-import {createBottomTabNavigator} from "@react-navigation/bottom-tabs";
+import { StyleSheet } from 'react-native';
+import { NavigationContainer } from "@react-navigation/native";
+import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
 import PostDrawer from "./src/components/post/PostDrawer";
-import UserDrawer from "./src/components/user/UserDrawer";
+
 import CameraAndroid from "./src/components/camera/CameraAndroid";
+import { UserDrawer } from "./src/components/user/UserDrawer";
 
 const BottomTabNavigator = createBottomTabNavigator();
 
@@ -16,11 +17,10 @@ export default function App() {
       >
         <BottomTabNavigator.Screen name={'posts'} component={PostDrawer}/>
         <BottomTabNavigator.Screen name={'users'} component={UserDrawer}/>
-        <BottomTabNavigator.Screen name={'camera'} component={CameraAndroid} options={{unmountOnBlur: true}}/>
+        <BottomTabNavigator.Screen name={'сamera'} component={CameraAndroid} options={{unmountOnBlur: true}}/>
       </BottomTabNavigator.Navigator>
     </NavigationContainer>
   );
 }
 
 const styles = StyleSheet.create({});
-
